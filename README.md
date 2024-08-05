@@ -1,4 +1,6 @@
 Super Store Sales Forecasting Project
+
+
 Welcome to the Super Store Sales Forecasting Project repository. This project leverages Power BI to provide detailed insights and forecasts for a super store's sales data, helping stakeholders make informed decisions based on historical data trends.
 
 Table of Contents
