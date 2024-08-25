@@ -8,6 +8,7 @@ Installation<br/>
 Usage<br/>
 Data<br/>
 Visualizations<br/>
+Screenshot<br/>
 ### Overview
 This project involves the analysis and forecasting of sales data for a super store using Power BI. The main objectives are to:<br/>
 
@@ -40,8 +41,8 @@ Navigate through the various tabs to explore different visualizations and insigh
 Use filters and slicers to customize the view based on specific criteria like date ranges, categories, and regions.
 Data
 The data used in this project is historical sales data from a fictional super store. It includes information such as sales amount, profit, shipping mode, product categories, and customer segments.
-
-Visualizations
+```
+# Visualizations
 The following visualizations are included in the Power BI dashboard:
 
 Sales by Category
@@ -54,6 +55,12 @@ Sales by Payment Mode
 Sales by Region
 Sales Forecast (15 days)
 These visualizations help in understanding the sales performance and forecasting future sales.
+
+# Screenshot
+![Screenshot (36)](https://github.com/user-attachments/assets/e35db950-5e43-4f97-81c7-4119f0fa2e63)
+
+![Screenshot (37)](https://github.com/user-attachments/assets/7f460634-1a12-4168-93b4-619c13647013)
+
 
 
 
